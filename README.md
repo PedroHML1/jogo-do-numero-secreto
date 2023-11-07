@@ -13,3 +13,5 @@ Jogo de adivinhação onde o jogador precisa descobrir o um número gerado de fo
 </div>
 
 Link para acessar o jogo: https://jogo-numero-secreto-wheat.vercel.app/
+
+<img src="/assets/img/imagem_do_jogo_pronto.gif">

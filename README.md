@@ -13,8 +13,10 @@ Jogo de adivinhação onde o jogador precisa descobrir o um número gerado de fo
 </div>
 
 #
-Link para acessar o jogo: https://jogo-numero-secreto-wheat.vercel.app/
 <img src="/img//assets/imagem_do_jogo_pronto.gif">
+Link para acessar o jogo: https://jogo-numero-secreto-wheat.vercel.app/
+
+#
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/127322330?v=4" width=115><br><sub>Pedro Marques</sub>](https://github.com/PedroHML1) |
 | :---: |

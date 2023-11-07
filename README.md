@@ -12,6 +12,7 @@ Jogo de adivinhação onde o jogador precisa descobrir o um número gerado de fo
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-Link para acessar o jogo: https://jogo-numero-secreto-wheat.vercel.app/
-
+#
 <img src="/img//assets/imagem_do_jogo_pronto.gif">
+Link para acessar o jogo: https://jogo-numero-secreto-wheat.vercel.app/
+#
